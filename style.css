@@ -1,0 +1,95 @@
+.hafl-width{
+    width: 40%;
+     margin-left: 50px;
+     margin-top: 150px;
+    float: left;
+}
+.half-width img{
+      
+        width: 400px;
+}
+.text-color{
+    color: orange;
+}
+
+.button-link{
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+    background-image: linear-gradient(180deg,lightsalmon,tomato);
+    color: white;
+}
+
+#half-width img{
+      
+    width: 134px;
+    margin-left: 126px;
+}
+
+#half-width{
+    width: 346px;
+    float: left;
+    margin-top: 85px;
+    margin-left: 107px;
+}
+.baner-top{
+    background-image: url("images/shapes/7.png");
+    height: 350px;
+    width: 1340px;
+    margin-top: 27px;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.text1{
+    text-align: center;
+}
+#text1{
+    text-align: center;
+     width: 500px;
+     margin-left: 388px;
+}
+
+.workpage{
+    width: 350px;
+    height: 475px;
+    box-shadow: 10px 10px 10px 10px  gray;
+    margin: 36px;
+    border-radius: 15px;
+    float: left;
+}
+
+.workpage img{
+    width: 280px;
+    margin-top: 20px;
+    margin-left: 28px;
+}
+.img{
+    border-radius: 7px;
+}
+.workpage h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 3px;
+} 
+.workpage p{
+    text-align: justify;
+    padding: 5px;
+}
+
+.foood{
+    color: orange;
+}
+
+.fotter{
+    background-color: black;
+    color: white;
+    width: 1500px;
+    height: 200px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 600px;
+
+}
+
