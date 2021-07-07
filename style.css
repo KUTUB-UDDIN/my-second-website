@@ -1,117 +1,127 @@
-.hafl-width{
-    width: 40%;
-     margin-left: 50px;
-     margin-top: 150px;
-    float: left;
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
-.half-width img{
-      
-        width: 400px;
-}
-.text-color{
+#text-color{
     color: orange;
+
+}
+#text-color:hover{
+    color: royalblue;
+}
+#homeFood{
+    height: 550px;
+}
+.main-section{
+    width: 30%;
+    float: left;
+    margin-left: 12%;
+    margin-top: 12%;
+
 }
 
+
+.main-section img{
+    width: 100%;
+    margin-top: -100px;
+}
 .button-link{
     text-decoration: none;
+    color:white ;
     padding: 10px;
     margin: 10px;
-    border-radius: 15px;
+    border-radius: 10px;
     background-image: linear-gradient(180deg,lightsalmon,tomato);
-    color: white;
+   
 }
 
-#half-width img{
-      
-    width: 134px;
-    margin-left: 126px;
+.button-link:hover{
+    background-image: linear-gradient(120deg,tomato,lightsalmon);
 }
 
-#half-width{
-    width: 346px;
-    float: left;
-    margin-top: 85px;
-    margin-left: 107px;
-}
-.baner-top{
-    background-image: url("images/shapes/7.png");
-    height: 350px;
-    width: 1340px;
-    margin-top: 27px;
-    background-size: cover;
-    border-radius: 15px;
+ #foodImage{
+    width: 36%;
+    margin-left: 297px;
+    margin-top: 73px;
 }
 
-.text1{
-    text-align: center;
-}
-#text1{
-    text-align: center;
-     width: 500px;
-     margin-left: 388px;
-}
-
-.workpage{
-    width: 360px;
-    height: 475px;
-    box-shadow: 10px 10px 10px 10px  gray;
-    margin: 36px;
-    border-radius: 15px;
-    float: left;
-}
-
-.workpage img{
-    width: 280px;
-    margin-top: 20px;
-    margin-left: 28px;
-}
-.img{
-    border-radius: 7px;
-}
-.workpage h1{
-    text-align: center;
-    font-weight: bold;
-    font-size: 30px;
+#foodBlog{
+    width: 30%;
+    height: 30%;  
+    margin-top: 130px;
+    
 } 
-.workpage p{
+
+.foodContainer{
+    float: left;
+}
+
+#mainFood{
+    background-image: url("images/shapes/kutub1.jpg");
+    height: 380px;
+    
+}
+
+
+
+#text-style{
+    text-align: center;
+}
+
+#paragraph-style{
     text-align: justify;
-    padding: 5px;
+     width: 500px; 
+    margin: auto;
+}    
+
+#card-project{
+    height: 700px;
 }
 
-.foood{
-    color: orange;
-}
-
-#conatiner{
-    
-    width: 660px;
-    margin-top: 582px;
-    height: 135px;
-    border-radius: 20px;
-    margin-left: 320px;
-    box-shadow: 10px 10px 45px gray;
+.card-project{
   
+    width: 400px;
+    height: 476px;
+    margin-left: 26px;
+    margin-top: 30px;
+    float: left;
+    box-shadow: 7px 7px 7px 7px gray;
+    border-radius: 15px;
+}
+
+.card-project img{
+    width: 320px;
+    margin-left: 40px;
+    margin-top: 15px;
+    border-radius: 20px;
+   
+}
+
+
+.card-project h1,p{
+    text-align: center;
+}
+
+#about-cantainer{
+    height: 150px;
+    background-color:whitesmoke;
+    border-radius: 20px;
+
     
 }
 
-.left1{
+
+
+.baner{
     float: left;
     margin: 20px;
-    font-size: 20px;
+    margin-left: 200px;
+    box-shadow: 20px 20px 45 white;
+   
 }
-    
-
-
-
-.fotter{
-    background-color: black;
-    color: white;
-    width: 1500px;
-    height: 200px;
-    text-align: center;
-    padding: 10px;
-    margin-top: 100px;
-
+.baner h1{
+     font-size: 30px;
+    font-weight: bold;
 }
 
 
